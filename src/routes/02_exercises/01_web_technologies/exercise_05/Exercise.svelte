@@ -1,1 +1,4 @@
-The first message! The second message!
+<body>
+<div> The first message! </div>
+<div> The second message! </div>
+</body>

@@ -1,1 +1,6 @@
-My lucky number is
+<script>
+const number = 10;
+</script>
+<body>
+My lucky number is {number}
+</body>

@@ -14,3 +14,9 @@
 <button class="btn btn-secondary" on:click={() => (current = "neymar")}>
   Neymar
 </button>
+
+<p class:myClassName=
+{#if class="btn btn-secondary" on:click={()}
+<a> {current} </a>
+{/if}
+</p>
